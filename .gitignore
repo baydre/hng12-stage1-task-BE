@@ -1,0 +1,6 @@
+.idea/
+.env/
+stage1task/
+extra/
+__pycache__/
+*.pyc
