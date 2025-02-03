@@ -12,7 +12,7 @@ A Flask-based API that provides detailed mathematical properties and fun facts a
 
 ## API Endpoint
 ```http
-GET /api/classify-number?number={your_number}
+    GET /api/classify-number?number={your_number}
 ```
 
 ## Response Example
